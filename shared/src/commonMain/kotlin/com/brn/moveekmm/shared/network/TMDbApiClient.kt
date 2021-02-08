@@ -13,7 +13,7 @@ class TMDbApiClient {
 
     companion object {
         private const val baseUrl = "https://api.themoviedb.org/"
-        private const val apiKey = "534f6807f76b6250d26925385f136722"
+        private const val apiKey = "YOUR_API_KEY"
         private const val discoverMoviesEndPoint = "3/discover/movie"
         private const val movieDetailEndPoint = "3/movie"
     }
