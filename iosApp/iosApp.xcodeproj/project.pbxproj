@@ -153,13 +153,6 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		54B892D725D155B90022F47C /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Preview Content";
-			sourceTree = "<group>";
-		};
 		7555FF72242A565900829871 = {
 			isa = PBXGroup;
 			children = (
@@ -185,7 +178,6 @@
 			isa = PBXGroup;
 			children = (
 				5413A44D25C6191B00A75799 /* App */,
-				54B892D725D155B90022F47C /* Preview Content */,
 				5457E7E625CD5AFB00A69FB0 /* Resources */,
 				5413A43125C60D4900A75799 /* Scenes */,
 				5457E7E125CD5AB400A69FB0 /* Storyboards */,
